@@ -4,7 +4,7 @@
   "description": "Send a byte via UDP",
   "main": "main.js",
   "bin": {
-    "byteflyer": "./main.js"
+    "byteflyer": "main.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
