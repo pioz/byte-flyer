@@ -1,10 +1,10 @@
 {
-  "name": "byte-flyer",
+  "name": "byteflyer",
   "version": "0.1.0",
   "description": "Send a byte via UDP",
   "main": "main.js",
   "bin": {
-    "byte-flyer": "./main.js"
+    "byteflyer": "./main.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

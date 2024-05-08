@@ -27,7 +27,7 @@ const sendByte = async (ip, port, byte) => {
 // Start here
 
 const options = new Command()
-  .name('byte-flyer')
+  .name('byteflyer')
   .description('Send a byte via UDP')
   .version('0.1.0')
   .requiredOption('-i, --ip <char>', 'IP address')

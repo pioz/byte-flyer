@@ -1,15 +1,15 @@
-# byte-flyer
+# byteflyer
 
 Send a byte via UDP
 
 ## Install
 
 ```
-npm install byte-flyer
+npm install byteflyer
 ```
 
 ## Usage
 
 ```
-byte-flyer -i 192.168.0.100 -p 1234 -b 0x2C
+byteflyer -i 192.168.0.100 -p 1234 -b 0x2C
 ```
